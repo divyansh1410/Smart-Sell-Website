@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/divyansh1410/Smart-Sell-Website/static/css/main.527e2a07.css",
+    "main.js": "/divyansh1410/Smart-Sell-Website/static/js/main.7131f386.js",
+    "static/js/453.8f537da6.chunk.js": "/divyansh1410/Smart-Sell-Website/static/js/453.8f537da6.chunk.js",
+    "index.html": "/divyansh1410/Smart-Sell-Website/index.html",
+    "main.527e2a07.css.map": "/divyansh1410/Smart-Sell-Website/static/css/main.527e2a07.css.map",
+    "main.7131f386.js.map": "/divyansh1410/Smart-Sell-Website/static/js/main.7131f386.js.map",
+    "453.8f537da6.chunk.js.map": "/divyansh1410/Smart-Sell-Website/static/js/453.8f537da6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.527e2a07.css",
+    "static/js/main.7131f386.js"
+  ]
+}
